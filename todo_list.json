@@ -1,14 +1,18 @@
 [
     {
-        "task": "buy computers",
-        "completed": true
-    },
-    {
         "task": "buy mobile phones",
         "completed": true
     },
     {
         "task": "buy car",
+        "completed": true
+    },
+    {
+        "task": "buy laptop",
+        "completed": true
+    },
+    {
+        "task": "buy telephone",
         "completed": true
     }
 ]
